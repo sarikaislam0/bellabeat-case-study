@@ -230,7 +230,7 @@ FROM counts;
 
 ## 5. Share
 
-![Dashboard](Dashboard 1.png)
+![Dashboard](<Dashboard 1.png>)
 
 | Finding | Detail |
 | --- | --- |
