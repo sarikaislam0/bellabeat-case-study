@@ -5,7 +5,7 @@ SQL, Excel and Tableau analysis of Fitbit usage data with marketing recommendati
 
 **Google Data Analytics Capstone** | SQL (BigQuery), Excel, Tableau
 
-**Live dashboard:** ![Live Dashboard](<https://public.tableau.com/views/Bellabeat_17923712259800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>)
+**Live dashboard:** https://public.tableau.com/views/Bellabeat_17923712259800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
