@@ -261,7 +261,7 @@ Groups are based on days with step data: Light = 2 to 11 days, Moderate = 12 to 
 | File | Description |
 | --- | --- |
 | `bellabeat-proj.sql` | Profiling, validation and cleaning queries |
-| `Dashboard_1.png` | Dashboard image |
+| `Dashboard 1.png` | Dashboard image |
 | `https://public.tableau.com/views/Bellabeat_17923712259800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link` | Interactive dashboard |
 
 ---
